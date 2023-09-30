@@ -1,5 +1,5 @@
 # DSA BY KUNAL KUSHWAHA
-## Searches
+## Searches And Questions
 - [Linear Search](LinearSearch.java)
 - [Linear Search in Strings](LinearSearchInStrings.java)
 - [Search in the 2D Array](SearchInThe2DArray.java)
