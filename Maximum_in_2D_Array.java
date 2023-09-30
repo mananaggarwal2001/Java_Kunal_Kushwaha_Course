@@ -6,7 +6,7 @@ public class Maximum_in_2D_Array {
         int finalvalue= search(newintegerArray);
         System.out.println("The maximum value in the 2D Array is :- " + finalvalue);
     }
-    static int search(int[][] arr){f
+    static int search(int[][] arr){
         int max= Integer.MIN_VALUE;
         for (int[] ints : arr) {
             for (int anInt : ints) {
