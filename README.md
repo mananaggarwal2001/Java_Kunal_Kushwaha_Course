@@ -8,3 +8,5 @@
 - [Ceiling of the Number](ceilingofanumber.java)
 - [Floor of the Number](floorofthenumber.java)
 - [Finding the Letter which is just greater than the given alphabet](LettersCheckinginJava.java)
+- [Find the Start and the end index of the targeted Element in the given Array](findthefirstandlastelementinarray.java)
+- [Find the Peak value in the Mountain array](FindingThePeakValueInMountainArray.java)
