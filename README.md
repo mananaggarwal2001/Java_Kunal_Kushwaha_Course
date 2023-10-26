@@ -13,3 +13,5 @@
 - [Finding the Peak value in the Mountain Array](FindingThePeakValueInMountainArray.java)
 - [Find the search value in the Mountain Array](FindthepeakValue.java)
 - [Search in the Rotated Sorted Array](SearchInRotatedSortedArray.java)
+- [Find the Largest Sum](FindThelargestSuminthearray.java)
+- [Find the rotated Count in the Rotated Sorted Array](FindtheRotatedCountInRotatedSortedArray.java)
