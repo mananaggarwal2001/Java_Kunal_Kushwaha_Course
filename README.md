@@ -15,3 +15,5 @@
 - [Search in the Rotated Sorted Array](SearchInRotatedSortedArray.java)
 - [Find the Largest Sum](FindThelargestSuminthearray.java)
 - [Find the rotated Count in the Rotated Sorted Array](FindtheRotatedCountInRotatedSortedArray.java)
+### Search in 2D Arrays
+- [Doing the Simple Search in the 2D Arrays](SearchinginMatrices.java)
