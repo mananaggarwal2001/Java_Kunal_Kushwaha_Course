@@ -17,3 +17,7 @@
 - [Find the rotated Count in the Rotated Sorted Array](FindtheRotatedCountInRotatedSortedArray.java)
 ### Search in 2D Arrays
 - [Doing the Simple Search in the 2D Arrays](SearchinginMatrices.java)
+- [Doing the Search in the 2D Array fully Sorted from the row and the column](SearchinthePurelySortedArray.java)
+
+## Sorting Algorithms
+- [Bubble Sort](BubbleSort.java)
