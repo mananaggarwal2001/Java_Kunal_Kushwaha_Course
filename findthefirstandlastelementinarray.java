@@ -27,7 +27,6 @@ public class findthefirstandlastelementinarray {
         array[0]= start;
         }
     }
-
     public static void upperboundValue(int []arr, int target, int[] array){
         int[] numberRange= new int[2];
         int start= 0;

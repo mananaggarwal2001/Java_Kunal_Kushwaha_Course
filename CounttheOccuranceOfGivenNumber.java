@@ -10,7 +10,8 @@ public class CounttheOccuranceOfGivenNumber {
         int count=0;
         while(number!=0){
             int value= number%10;
-            if(value==target){
+            if(value==target)
+            {
                 count++;
             }
             number/=10;

@@ -1,4 +1,4 @@
-# DSA BY KUNAL KUSHWAHA
+# DSA BY KUNAL KUSHWAHA IN JAVAf
 ## Searches And Questions
 - [Linear Search](LinearSearch.java)
 - [Linear Search in Strings](LinearSearchInStrings.java)
