@@ -21,3 +21,4 @@
 
 ## Sorting Algorithms
 - [Bubble Sort](BubbleSort.java)
+- [Selection Sort](SelectionSort.java)
