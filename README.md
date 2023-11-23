@@ -22,3 +22,5 @@
 ## Sorting Algorithms
 - [Bubble Sort](BubbleSort.java)
 - [Selection Sort](SelectionSort.java)
+- [Insertion Sort](InsertionSorting.java)
+- [Cyclic Sort](CyclicSort.java)
