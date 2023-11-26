@@ -27,3 +27,4 @@
 
 ### Cyclic Sort Questions
 - [Find the Missing Number](FindTheMissingNumber.java)
+- [Find All the Missing Numbers in the given range in Array](AllNumberMissingInArray.java)
