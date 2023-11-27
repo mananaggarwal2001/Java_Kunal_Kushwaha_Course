@@ -29,4 +29,4 @@
 - [Find the Missing Number](FindTheMissingNumber.java)
 - [Find All the Missing Numbers in the given range in Array](AllNumberMissingInArray.java)
 - [Find the Duplicate Number](FindtheDuplicateNumber.java)
-- [Find All the Duplicate Number Within the Range](FindtheDuplicateNumberwithinRange.java)
+- [Find All the Duplicate Numbers Within the Range](FindtheDuplicateNumberwithinRange.java)
