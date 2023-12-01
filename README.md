@@ -32,3 +32,6 @@
 - [Find All the Duplicate Numbers Within the Range](FindtheDuplicateNumberwithinRange.java)
 - [Set Mismatch of the Given Range of the Number](SetMismatch.java)
 - [Find the Smallest Missing Number in the Array](FirstMissingPositive.java)
+
+## Strings
+- [Pallindrome](Pallindrome.java)
