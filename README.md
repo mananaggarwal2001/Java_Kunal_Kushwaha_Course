@@ -34,4 +34,4 @@
 - [Find the Smallest Missing Number in the Array](FirstMissingPositive.java)
 
 ## Strings
-- [Pallindrome](Pallindrome.java)
+- [Pallindrome](PallindromeString.java)
