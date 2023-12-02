@@ -35,3 +35,9 @@
 
 ## Strings
 - [Pallindrome](PallindromeString.java)
+
+## Pattern Questions
+- [Pattern 1](Pattern1.java)
+- [Pattern 2](Pattern2.java)
+- [Pattern 3](Pattern3.java)
+- [Pattern 4](Pattern4.java)
