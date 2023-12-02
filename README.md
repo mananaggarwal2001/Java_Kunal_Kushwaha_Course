@@ -42,3 +42,7 @@
 - [Pattern 3](Pattern3.java)
 - [Pattern 4](Pattern4.java)
 - [Pattern 5](Pattern5.java)
+- [Pattern 6](Pattern6.java)
+- [Pattern 7](Pattern7.java)
+- [Pattern 8](Pattern8.java)
+- [Pattern 9](Pattern9.java)
