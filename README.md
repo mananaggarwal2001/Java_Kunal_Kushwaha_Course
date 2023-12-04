@@ -46,3 +46,5 @@
 - [Pattern 7](Pattern7.java)
 - [Pattern 8](Pattern8.java)
 - [Pattern 9](Pattern9.java)
+## Recursion
+- [Recursive Binary Search](RecursiveBinarySearch.java)
