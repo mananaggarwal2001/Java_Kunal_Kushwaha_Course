@@ -48,3 +48,6 @@
 - [Pattern 9](Pattern9.java)
 ## Recursion
 - [Recursive Binary Search](RecursiveBinarySearch.java)
+## Time complexity Problems
+- [Find the Fibonacci number using Simple Formula](Findingthenthfibonaccinumber.java)
+
