@@ -50,4 +50,8 @@
 - [Recursive Binary Search](RecursiveBinarySearch.java)
 ## Time complexity Problems
 - [Find the Fibonacci number using Simple Formula](Findingthenthfibonaccinumber.java)
+## Number System Questions
+- [Find whether the given number is odd or even](findwhetherthenumberisevenorodd.java)
+- [Find the unique number in the array of numbers which are simply occuring twice](uniqueelementintheduplicatearray.java)
+
 

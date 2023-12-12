@@ -26,7 +26,6 @@ public class AllNumberMissingInArray {
             }
         }
     }
-
     static ArrayList<Integer> findTheNumber(int[] arr) {
         int length = arr.length;
         ArrayList<Integer> finalList= new ArrayList<>();
