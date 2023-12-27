@@ -50,8 +50,15 @@
 - [Recursive Binary Search](RecursiveBinarySearch.java)
 ## Time complexity Problems
 - [Find the Fibonacci number using Simple Formula](Findingthenthfibonaccinumber.java)
-## Number System Questions
+## Number System Questions And Bitwise Operations in Java
 - [Find whether the given number is odd or even](findwhetherthenumberisevenorodd.java)
 - [Find the unique number in the array of numbers which are simply occuring twice](uniqueelementintheduplicatearray.java)
+- [Count the Number of Set Bits in Array](SetBits.java)
+- [To Check whether the number is power of 2 or not](Checkwhetherthenumberispowerof2ornot.java)
+- [To Find the Power of 2 of the given number in java](findingthepowerof2injava.java)
+- [Find the Magic Number](MagicNumber.java)
+- [Find the Number of Digits in the Java](NumberofDigits.java)
+- [Find the XOR of the Number Given In range](RangeXOR.java)
+- [Flip An Image Google Question Change Inverse the number and reverse the each row of the number](FlipAnImage.java)
 
 

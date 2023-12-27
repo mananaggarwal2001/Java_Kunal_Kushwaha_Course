@@ -8,7 +8,6 @@ public class FindtheDuplicateNumber {
         int finalAnswer = findtheDuplicates(arr);
         System.out.println("The final Answer of the given Array is :- " + finalAnswer);
     }
-
     static void CycleSort(int[] arr) {
         int i = 0;
         while (i < arr.length) {
