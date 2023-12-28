@@ -60,5 +60,8 @@
 - [Find the Number of Digits in the Java](NumberofDigits.java)
 - [Find the XOR of the Number Given In range](RangeXOR.java)
 - [Flip An Image Google Question Change Inverse the number and reverse the each row of the number](FlipAnImage.java)
+- [Find the Perfect Square Number with the Precision Method](PerfectSquareNumberwithprecison.java)
+- [Find the Whether the given number is Prime Number or Not](PrimeNumber.java)
+- [Find all the Prime Numbers within the range using the Sieve of Erasthothenics Method](SieveOfErasthothenicsforgettingtheprimenumber.java)
 
 
